@@ -24,6 +24,7 @@ nav:
   - Journals: journals.md
   - Conferences: conferences.md
   - Datasets: datasets.md
+  - Reports & Books: reports.md
   - Research Papers:
       - Genetics: papers/genetics.md
       - Early Detection: papers/early-detection.md
