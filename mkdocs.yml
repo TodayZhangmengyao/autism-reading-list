@@ -1,6 +1,8 @@
 site_name: 梦瑶的研究部落格
 theme:
   name: material
+  logo: mengyao.jpg
+  favicon: mengyao.jpg
   features:
     - navigation.tabs
     - search.suggest
@@ -30,3 +32,5 @@ nav:
       - Early Detection: papers/early-detection.md
       - Interventions: papers/interventions.md
       - AI & Digital Health: papers/ai.md
+extra_css:
+  - extra.css
